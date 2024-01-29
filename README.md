@@ -1,5 +1,7 @@
 
-<img src= "https://github.com/Sachidananda-17/Cine-Guru/blob/main/Screenshot%202024-01-29%20165615.png"  alt ="hey there" style= { align: 'centre'}>
+<p align="center">
+    <img src="https://github.com/Sachidananda-17/Cine-Guru/blob/main/Screenshot%202024-01-29%20165615.png" alt="Preview">
+</p>
 
 # Getting Started with Create React App
 
